@@ -84,7 +84,7 @@ const instances = [{
     maintainerUrl: 'https://umzzz.com',
   }, {
     url: 'https://rsshub.isrss.com',
-    location: '🇰🇷',
+    location: 'US',
     maintainer: 'isRSS',
     maintainerUrl: 'https://isrss.com',
   }, {
@@ -107,7 +107,12 @@ const instances = [{
     location: '🇺🇸',
     maintainer: 'FunnyCups',
     maintainerUrl: 'https://www.cups.moe'
-  }
+  }, {
+    url: 'https://huggingface.co/spaces/cnwww/RSSHub',
+    location: 'US',
+    maintainer: 'iSRSS',
+    maintainerUrl: 'https://isrss.com'
+}
 ]
 
 // You can copy the location country flag from https://emojipedia.org/flags
