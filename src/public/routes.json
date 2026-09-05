@@ -28498,7 +28498,7 @@
   },
   "shanghaimuseum": {
     "name": "Shanghai Museum",
-    "url": "www.shanghaimuseum.net",
+    "url": "www.shanghaimuseum.cn",
     "zh": {
       "name": "上海博物馆"
     },
@@ -28523,7 +28523,7 @@
         "radar": [
           {
             "source": [
-              "www.shanghaimuseum.net/mu/frontend/pg/infomation/news"
+              "www.shanghaimuseum.cn/mu/frontend/pg/infomation/news"
             ],
             "target": "/information/news"
           }
@@ -28564,7 +28564,7 @@
         "radar": [
           {
             "source": [
-              "www.shanghaimuseum.net/mu/frontend/pg/display/offline-exhibit"
+              "www.shanghaimuseum.cn/mu/frontend/pg/display/offline-exhibit"
             ],
             "target": "/display/offline-exhibit"
           }
